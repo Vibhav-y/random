@@ -1,9 +1,9 @@
 {
-  "12524168": {
+  "125248": {
     "clientType": "openAi",
     "shortcut": "Shift+Q"
   },
-  "12524169": {
+  "12524168": {
     "clientType": "gem",
     "shortcut": "Shift+G"
   }
